@@ -3,3 +3,9 @@
 ## Ejercicio guiado por los profesores de Alura Latam
 ### Inmersion DEV 03
 ### Septiembre 2024
+__________________
+
+** Primera versión construida con la guia **
+
+
+* Pablo Matias Pidone * 
