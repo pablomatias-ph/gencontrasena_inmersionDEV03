@@ -5,7 +5,7 @@
 ### Septiembre 2024
 __________________
 
-** Primera versión construida con la guia **
+**Primera versión construida con la guía**
 
 
-* Pablo Matias Pidone * 
+_[Pablo Matias Pidone](mailto:pablomatias.ph@gmail.com)_
